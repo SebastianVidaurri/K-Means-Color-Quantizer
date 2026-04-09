@@ -1,0 +1,31 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Distribución / Paquetes
+dist/
+build/
+*.egg-info/
+
+# Variables de entorno (Seguridad)
+.env
+.venv
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.swp
+
+# Logs y Cache
+*.log
+.uv_cache/
