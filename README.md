@@ -1,3 +1,14 @@
+---
+title: K-Means Color Quantizer
+emoji: 🎨
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+python_version: "3.12"
+app_file: main.py
+pinned: false
+license: mit
+---
 # K-Means Color Quantizer 🎨
 
 Este proyecto es una herramienta de **Ciencia de Datos** aplicada al procesamiento de imágenes. Utiliza el algoritmo de clustering **K-Means** para realizar una cuantización de colores, reduciendo la paleta de una imagen a un número específico de tonos representativos (K) sin perder la estructura visual principal.
