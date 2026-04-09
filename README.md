@@ -8,6 +8,7 @@ python_version: "3.12"
 app_file: main.py
 pinned: false
 license: mit
+custom_package_manager: uv
 ---
 # K-Means Color Quantizer 🎨
 
